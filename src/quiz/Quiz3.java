@@ -13,6 +13,9 @@ public class Quiz3 {
 		System.out.println(year);
 		System.out.println(month);
 		System.out.println(day);
+		
+		
+		
 
 
 	}
